@@ -1,6 +1,7 @@
 # Gify
 The coolest discord bot for getting epic and random GIFs. \
-[Invite this bot to your server](https://discord.com/oauth2/authorize?scope=bot&client_id=776321298393595925).
+[Invite this bot](https://discord.com/oauth2/authorize?scope=bot&client_id=776321298393595925) to your server. \
+[Medium article](https://medium.com/@gadhaguy13/discord-database-integration-93e937b71c83) about architecture.
 
 ### Commands:
 `gif help`: see this message \
@@ -15,4 +16,4 @@ The coolest discord bot for getting epic and random GIFs. \
 The [Giphy API](https://developers.giphy.com/) is used to get gifs. 
 
 ### Database
-[Rockset](https://rockset.com/) is used to store users search history and info for a more personalized exeperiece. 
+[Rockset](https://rockset.com/) is used to store users search history.
